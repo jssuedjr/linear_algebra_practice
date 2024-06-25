@@ -1,0 +1,3 @@
+C:/Users/Jaime/Desktop/Code/C/linear_algebra/build/CMakeFiles/linearalgebra.dir
+C:/Users/Jaime/Desktop/Code/C/linear_algebra/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jaime/Desktop/Code/C/linear_algebra/build/CMakeFiles/ZERO_CHECK.dir
